@@ -1,1 +1,27 @@
+NAME-VARADARAJULU NITHYA
+LEARNING TRACK- DEVELOPER
+EMAIL- nithya03v@gmail.com
+TRAILHEAD PROFILE - https://www.salesforce.com/trailblazer/nithyavaradarajulu4894
+USERNAME (DEVELOPER ORG)-nithya03v@gdcproject.com
+CONTACT-7893179198
 
+NAME- SHAIK AFRIN
+LEARNING TRACK- DEVELOPER
+EMAIL- afrin90145@gmail.com
+TRAILHEAD PROFILE-https://www.salesforce.com/trailblazer/afrinshaik1
+USERNAME (DEVOLOPER ORG)-afrin90145@gdcproject.com
+CONTACT- 9398520455
+
+NAME-JAYARAJ SAIKEERTHANA
+LEARNING TRACK-DEVELOPER
+EMAIL-saikeerthanajayaraj08@gmail.com
+TRAILHEAD PROFILE -https://www.salesforce.com/trailblazer/saikeerthanajayaraj
+USERNAME (DEVELOPER ORG)-saikeerthanajayaraj08@gdcproject.com
+CONTACT-9642362676
+
+NAME-POTHULURI SWATHI
+LEARNING TRACK- DEVELOPER
+EMAIL- pothuluriswathi64@gmail.com
+TRAILHEAD PROFILE -https://www.salesforce.com/trailblazer/pothuluriswathi
+USERNAME (DEVELOPER ORG)-pothuluriswathi64@gdcproject.com
+CONTACT-9390050956
